@@ -1,0 +1,10 @@
+D:\LearnProjects\WFA\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+D:\LearnProjects\WFA\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.cache
+D:\LearnProjects\WFA\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+D:\LearnProjects\WFA\Hangman\Hangman\bin\Debug\Hangman.exe.config
+D:\LearnProjects\WFA\Hangman\Hangman\bin\Debug\Hangman.exe
+D:\LearnProjects\WFA\Hangman\Hangman\bin\Debug\Hangman.pdb
+D:\LearnProjects\WFA\Hangman\Hangman\obj\Debug\Hangman.exe
+D:\LearnProjects\WFA\Hangman\Hangman\obj\Debug\Hangman.pdb
+D:\LearnProjects\WFA\Hangman\Hangman\obj\Debug\Hangman.HangmanForm.resources
+D:\LearnProjects\WFA\Hangman\Hangman\obj\Debug\Hangman.csprojAssemblyReference.cache
